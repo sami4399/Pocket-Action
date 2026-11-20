@@ -34,7 +34,7 @@ class ScannerActivity : ComponentActivity() {
     private var mode: String = MODE_QR
     private val qrScanner by lazy { BarcodeScanning.getClient() }
     private val textRecognizer by lazy { TextRecognition.getClient(TextRecognizerOptions.DEFAULT_OPTIONS) }
-
+    @ExperimentalGetImage
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         mode = intent.getStringExtra(EXTRA_MODE) ?: MODE_QR
