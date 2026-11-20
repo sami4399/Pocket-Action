@@ -1,0 +1,72 @@
+POCKET ACTION — PROPRIETARY SOFTWARE LICENCE
+Draft for owner review; complete the placeholders before distribution.
+
+Copyright (c) [YEAR] [LEGAL OWNER NAME]. All rights reserved.
+
+1. Licence grant
+Subject to this agreement, [LEGAL OWNER NAME] grants the person or organisation
+that lawfully obtains an authorised copy of Pocket Action a limited, personal,
+non-exclusive, non-transferable, revocable licence to install and use the
+unmodified application for its intended purpose.
+
+2. Restrictions
+Except where applicable law expressly permits otherwise, you may not:
+(a) copy, publish, distribute, sell, rent, lease, sublicense, or commercially
+    exploit the application or its source code;
+(b) modify, adapt, translate, or create derivative works of the application;
+(c) reverse engineer, decompile, or disassemble the application, except to the
+    limited extent such restriction is prohibited by applicable law;
+(d) remove or alter copyright, trademark, or proprietary notices; or
+(e) represent that you own the application or are authorised to distribute it.
+
+3. Ownership
+The application, its original source code, branding, visual design, and related
+materials are owned by [LEGAL OWNER NAME] or its licensors. This licence grants
+only the limited rights expressly stated above. It does not transfer ownership.
+
+4. Third-party components
+Some components are supplied by third parties and are governed by their own
+licences and terms. Those terms prevail for the relevant third-party component.
+See THIRD_PARTY_NOTICES.md. This licence does not relicense third-party code.
+
+5. Updates and availability
+The owner may provide updates, change or discontinue features, or stop
+distributing the application. No update or support commitment is made unless
+separately agreed in writing.
+
+6. Disclaimer
+To the maximum extent permitted by applicable law, the application is provided
+"AS IS" and "AS AVAILABLE", without warranties, conditions, or representations
+of any kind, whether express, implied, statutory, or otherwise. This includes
+implied warranties of merchantability, fitness for a particular purpose,
+title, and non-infringement, to the extent such exclusions are legally allowed.
+
+7. Limitation of liability
+To the maximum extent permitted by applicable law, [LEGAL OWNER NAME] will not
+be liable for indirect, incidental, special, consequential, exemplary, or
+punitive damages, or loss of data, profits, business, or goodwill arising from
+use of or inability to use the application. Nothing in this licence excludes
+liability that cannot lawfully be excluded or limited.
+
+8. Termination
+This licence terminates automatically if you materially breach its terms.
+Upon termination, you must stop using and delete copies of the application
+under your control, except where retention is required by law.
+
+9. Governing law and mandatory rights
+The governing law and venue are [JURISDICTION — TO BE COMPLETED]. Nothing in
+this licence limits any non-waivable rights available under applicable law.
+If a provision is unenforceable, the remaining provisions continue to apply
+to the extent legally possible.
+
+10. Entire agreement
+This licence is the entire agreement concerning the application licence,
+unless a separate written agreement signed by the owner states otherwise.
+
+Owner contact: [LEGAL CONTACT EMAIL — TO BE COMPLETED]
+
+IMPORTANT RELEASE CHECKLIST
+- Replace every bracketed placeholder.
+- Confirm the legal owner has authority to license the application.
+- Obtain legal review for the countries where the app will be distributed.
+- Do not describe this draft as legally approved until that review is complete.
