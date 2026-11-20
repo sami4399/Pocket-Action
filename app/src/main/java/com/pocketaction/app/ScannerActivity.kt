@@ -12,7 +12,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.camera.core.CameraSelector
-import @ExperimentalGetImage
+import import androidx.camera.core.ExperimentalGetImage
 import androidx.camera.core.ImageAnalysis
 import androidx.camera.core.Preview
 import androidx.camera.lifecycle.ProcessCameraProvider
@@ -88,7 +88,7 @@ class ScannerActivity : ComponentActivity() {
             }
         }, ContextCompat.getMainExecutor(this))
     }
-    @OptIn(ExperimentalGetImage::class)
+    @ExperimentalGetImage
     private fun analyzeFrame(proxy: androidx.camera.core.ImageProxy) {
         if (finished || !busy.compareAndSet(false, true)) { proxy.close(); return }
         val mediaImage = proxy.image
