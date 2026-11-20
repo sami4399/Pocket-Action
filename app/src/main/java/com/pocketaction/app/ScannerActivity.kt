@@ -71,7 +71,7 @@ class ScannerActivity : ComponentActivity() {
         root.addView(overlay, FrameLayout.LayoutParams(-1, -1))
         setContentView(root)
     }
-
+    @ExperimentalGetImage
     private fun startCamera() {
         val providerFuture = ProcessCameraProvider.getInstance(this)
         providerFuture.addListener({
